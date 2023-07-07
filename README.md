@@ -1,5 +1,4 @@
 # Clinic-Management-System-Java
-This is a java desktop application for clinic management which enables the doctors to generate the patient prescription,to analyase patient using previous visit history etc.
 The Clinic Management System is a JDBC project designed to manage patient and 
 consultation records. Usually, when a patient arrives for the consultation the patient 
 registration and the consultation details must be manually recorded using pen and paper, 
